@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div align="center"> <h1 align="center"> Hi There! I am an aspiring Data Analyst 👋 </h1> </div> 
 
-<b>Hi, I'm Balbir. I have embarked on a data analysis journey using various tools and languages to extract valuable insights from data. Using Excel, Tableau, Power BI, Python, R, and SQL, I am dedicated to transforming raw data into meaningful narratives and actionable recommendations.
+<b>Hi, I'm Balbir. I have just embarked on a data analysis journey using various tools and languages to extract valuable insights from data. Using Excel, Tableau, Power BI, Python, R, and SQL, I am dedicated to transforming raw data into meaningful narratives and actionable recommendations.
 
 My skills in Excel allow me to perform data manipulation and analysis tasks uncovering patterns and trends. With Tableau and Power BI, I enjoy creating dashboards and reports that facilitate data-driven decision-making.
 
